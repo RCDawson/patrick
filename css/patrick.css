@@ -77,6 +77,8 @@ a:hover, a:active, .show-hide-slide a:hover { color:#009900; text-decoration:non
 #eps a:hover, .tech #eps a { background-position: center -668px; }
 #ptrck a { background-position: right -298px; }
 #ptrck a:hover, .tech #ptrck a { background-position: right -668px; }
+#gw a { height:74px; width:188px; background: url(../imgs/gw-logo.png) no-repeat center top; }
+#gw a:hover { background-position: center bottom; }
 
 .show-hide-slide { width:380px; }
 .show-hide-slide h2 { display:inline; width:auto; }

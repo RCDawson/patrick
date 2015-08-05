@@ -142,6 +142,13 @@ specialty and export markets in power ranges from 300 kVA to 100 MVA.</li>
                 <li>Repair of Printed Circuit Boards, VFD's, Power Supplies</li>
               </ul>
     		</div>
+            <div id="gw"><a href="http://www.gwelec.com/" target="_blank"><span>G &amp; W Electric</span></a>
+                <ul>
+                    <li>A leading worldwide manufacturer of medium/high voltage electrical products and automation services.</li>
+                    <li>Providing customer power solutions worldwide since 1905.</li>
+                </ul>
+            </div>
+<!--
     		<div id="eps"><a href="http://www.epspumps.com/" target="_blank"><span>Engineered Pump Services</span></a>
               <ul>
                 <li>Inspection, performance evaluation and repair services</li>
@@ -150,6 +157,7 @@ specialty and export markets in power ranges from 300 kVA to 100 MVA.</li>
                 <li>Service water pumps</li>
               </ul>
     		</div>
+-->
          </div>
 </div><div style="background: url(../imgs/btm-round.png) no-repeat 0 50% transparent; width:924px; height:28px; margin:0 auto;"></div>
 
