@@ -1,0 +1,102 @@
+html { font-size:62.5%; }
+body { background:#003300 url(../imgs/green-bg2.jpg) no-repeat 50% 0; margin:0; padding:0; font: 100%/1.4 Helvetica, Arial, sans-serif; color:#2a2a2a; }
+#head { height:120px; width:920px; margin:0 auto 10px auto; }
+p { font-size:1.3em; }
+h1 { font-size:2em; color:#8a8a8a; }
+h2 { font-size:1.5em; }
+#mascot { margin-left:20px; }
+#small { font-size:1.1em; color:#336633; padding:1.5em; }
+.show-hide-slide a { cursor:pointer; }
+a:link, a:visited { color:#336633; text-decoration:underline; font-weight:bold; }
+a:hover, a:active, .show-hide-slide a:hover { color:#009900; text-decoration:none; }
+
+#nav li { float:left; }
+#nav a span { display:none; }
+#nav a { display:block; height:20px; background: url(../imgs/hdrlinks.png) no-repeat; margin-top:88px; margin-right:40px; }
+#nav-home a, #nav-home-selected a  { width:52px; background-position:0 bottom; }
+#nav-home a:hover, #nav-home-selected a { background-position:0 top; }
+#nav-line a, #nav-line-selected a  { width:84px; background-position:-52px bottom; }
+#nav-line a:hover, #nav-line-selected a { background-position:-52px top; }
+#nav-tech a, #nav-tech-selected a { width:86px; background-position:-138px bottom; margin-right:0; }
+#nav-tech a:hover, #nav-tech-selected a { background-position:-138px top; }
+#nav-contact a, #nav-contact-selected a { width:78px; background-position:-227px bottom; }
+#nav-contact a:hover, #nav-contact-selected a { background-position:-227px top; }
+
+#nav #logo { width:216px; height:106px; margin-right:280px; background: url(../imgs/patrick-logo3.png) no-repeat 50% 50%; margin-top:16px; }
+
+#content { width:100%; }
+
+#main-img, #main-shd, #main-location, #main-white { width:920px; height: 388px; border:2px solid #003300; border-bottom:none; margin:0 auto; background-color:#f7f7f7; overflow:hidden; }
+#main-shd, #main-location { height:380px; }
+#main-shd { background: url(../imgs/shd-bg.jpg) no-repeat center center; }
+#main-white { background-color: #f7f7f7; height:auto; }
+#main-location { background: url(../imgs/contact-map.jpg) no-repeat center center; border-bottom:none; }
+
+#bcopy, #bcopy2 { width:820px; border-left: 2px #003300 solid; border-right: 2px #003300 solid; background:#f7f7f7 url(../imgs/shd-top.png) no-repeat center -4px; padding:40px 50px 20px 50px; margin:0 auto; }
+
+#topcopy { width:820px; padding:40px 50px 20px 50px; margin:0 auto; }
+
+#bcopy2 { background-position:50% -8px; }
+#bcopy2 p em { color:#6a6a6a; }
+
+#suppliers a { display:block; width:188px; height:74px; background-image: url(../imgs/suppliers.png); background-repeat:no-repeat; }
+#suppliers a span { display:none; }
+#suppliers div { float:left; width:188px; height:auto; min-height:74px; margin:20px 46px; }
+.tech a { cursor:default; }
+#post a { background-position: left 0; }
+#post a:hover, .tech #post a { background-position: left -370px; }
+#colt a { background-position: center 0; }
+#colt a:hover, .tech #colt a { background-position: center -370px; }
+#rich a { background-position: right 0; }
+#rich a:hover, .tech #rich a { background-position: right -370px; }
+#cybr a { background-position: left -74px; }
+#cybr a:hover, .tech #cybr a { background-position: left -444px; }
+#ge a { background-position: center -74px; }
+#ge a:hover, .tech #ge a { background-position: center -444px; }
+#ge-iti a { height:74px; width:188px; background: url(../imgs/ge-iti-logo.png) no-repeat center top; }
+#ge-iti a:hover, .tech #ge-iti a { background-position: center bottom; }
+#vt a { height:74px; width:188px; background: url(../imgs/vt-logo.png) no-repeat center top; }
+#vt a:hover, .tech #ge-iti a { background-position: center bottom; }
+#mid a { background-position: right -74px; }
+#mid a:hover, .tech #mid a { background-position: right -444px; }
+#ino a { background-position: left -148px; }
+#ino a:hover, .tech #ino a { background-position: left -518px; }
+#smc a { background-position: center -148px; }
+#smc a:hover, .tech #smc a { background-position: center -518px; }
+#pyco a { background-position: right -148px; }
+#pyco a:hover, .tech #pyco a { background-position: right -518px; }
+#nat a { background-position: right -224px; }
+#nat a:hover, .tech #nat a { background-position: right -594px; }
+#neh a { background-position: center -224px; }
+#neh a:hover, .tech #neh a { background-position: center -594px; }
+#brkr a { background-position: left -224px; }
+#brkr a:hover, .tech #brkr a { background-position: left -594px; }
+#pio a { background-position: left -298px; }
+#pio a:hover, .tech #eps a { background-position: left -668px; }
+#eps a { background-position: center -298px; }
+#eps a:hover, .tech #eps a { background-position: center -668px; }
+#ptrck a { background-position: right -298px; }
+#ptrck a:hover, .tech #ptrck a { background-position: right -668px; }
+
+.show-hide-slide { width:380px; }
+.show-hide-slide h2 { display:inline; width:auto; }
+.show-hide-slide a { display:block; width:auto; }
+.show-hide-slide a { color:#336633; text-decoration:none; font-weight:bold; }
+.show-hide-slide a:hover { color:#009900; }
+.show-hide-slide h2.selected a { border:1px solid #cccccc; border-bottom:none; }
+.show-hide-slide ul, .slide ul { font-size:1.2em; list-style:disc; padding-left:2em; }
+.slide ul { padding:5px 0 20px 2em; width:188px; height:74px; background-color:#f7f7f7; }
+.show-hide-slide hr { margin:10px 0; }
+
+#foot { background: url(../imgs/shd-top-light.png) no-repeat center -5px; width:920px; height:20px; margin:0 auto; }
+#foot #small { float:right; line-height:20px; }
+.left { float:left; }
+.center { float:left; margin:0 50px; }
+.right { float:right; }
+
+.downloads li { list-style:none; background:url(../imgs/file-download.png) no-repeat left 0 ; text-indent: 24px; margin:5px 0 5px 10px; line-height:24px; font-size:1.1em; }
+.downloads .nested { padding-left:1em; margin:10px 0; }
+.nested ul { padding-left:1em; }
+.downloads img { border:none; vertical-align:middle; }
+
+.showList { display:block; width:1px; height:1px; float:left; text-decoration:none; font-size:12px; line-height:1; margin:0 10px 0 0; color:white; background: url('../imgs/plus-minus.gif') no-repeat left top; }
