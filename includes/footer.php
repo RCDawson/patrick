@@ -1,4 +1,4 @@
-    <div id="foot"><p id="small"><img src="http://www.patrick-enterprises.com/staging/imgs/cc-logos.png" align="left" height="20" hspace="20" /> &copy;2010 Patrick Engineering dba Patrick Enterprises. All Rights Reserved.</p></div>
+    <div id="foot"><p id="small"><img src="http://www.patrick-enterprises.com/staging/imgs/cc-logos.png" align="left" height="20" hspace="20" /> &copy;<?php echo date("Y"); ?> Patrick Engineering dba Patrick Enterprises. All Rights Reserved.</p></div>
 </div>
 <script type="text/javascript">
 
