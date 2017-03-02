@@ -47,7 +47,14 @@
                 <li>Switches, C.T. Fuse Blocks, Terminal Boards, Indicating Lights, GE Electromechanical Relays</li>
               </ul>
             </div>
-	    <div id="pyco"><a href="http://www.pyco.com/" target="_blank"><span>PYCO, Inc.</span></a>
+		    <div id="ge-md"><a href="http://www.pyco.com/" target="_blank"><span>PYCO, Inc.</span></a>
+              <ul>
+                <li>Monitor Transformers</li>
+                <li>Predict Failures</li>
+                <li>Manage Performance</li>
+              </ul>
+    		</div>
+		    <div id="pyco"><a href="http://www.pyco.com/" target="_blank"><span>PYCO, Inc.</span></a>
               <ul>
                 <li>Thermocouples, RTDs and Associated Temperature Monitoring Equipment</li>
               </ul>
@@ -59,7 +66,6 @@
                 <li>Manufacture, Retip and Supply Electrical Contacts, Interrupter and Baffle Stack Assemblies</li>
               </ul>
             </div>
- -->
     		<div id="vt"><a href="http://www.vatransformer.com/" target="_blank"><span>Virginia Transformer</span></a>
               <ul>
                 <li>A leading manufacturer of custom engineered power electric
@@ -67,6 +73,7 @@ transformers for utility, energy, industrial, mining, oil & gas, commercial, ins
 specialty and export markets in power ranges from 300 kVA to 100 MVA.</li>
               </ul>
             </div>
+ -->
     		<div id="rich"><a href="http://www.richards-mfg.com/" target="_blank"><span>Richards Manufacturing Co.</span></a>
               <ul>
                 <li>Electrical Compression Connectors and Lugs</li>

@@ -55,6 +55,8 @@ a:hover, a:active, .show-hide-slide a:hover { color:#009900; text-decoration:non
 #ge a:hover, .tech #ge a { background-position: center -444px; }
 #ge-iti a { height:74px; width:188px; background: url(../imgs/ge-iti-logo.png) no-repeat center top; }
 #ge-iti a:hover, .tech #ge-iti a { background-position: center bottom; }
+#ge-md a { height:74px; width:188px; background: url(../imgs/ge-md-logo.png) no-repeat center top; }
+#ge-md a:hover, .tech { background-position: center bottom; }
 #vt a { height:74px; width:188px; background: url(../imgs/vt-logo.png) no-repeat center top; }
 #vt a:hover, .tech #ge-iti a { background-position: center bottom; }
 #mid a { background-position: right -74px; }
