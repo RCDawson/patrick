@@ -47,7 +47,7 @@
                 <li>Switches, C.T. Fuse Blocks, Terminal Boards, Indicating Lights, GE Electromechanical Relays</li>
               </ul>
             </div>
-		    <div id="ge-md"><a href="http://www.pyco.com/" target="_blank"><span>PYCO, Inc.</span></a>
+		    <div id="ge-md"><a href="http://store.gedigitalenergy.com/MD/Front.aspx" target="_blank"><span>GE Monitoring &amp; Diagnostics</span></a>
               <ul>
                 <li>Monitor Transformers</li>
                 <li>Predict Failures</li>
@@ -142,13 +142,20 @@ specialty and export markets in power ranges from 300 kVA to 100 MVA.</li>
               </ul>
     		</div>
  -->
-    		<div id="ptrck"><a href="http://www.patrick-enterprises.com/" target="_blank"><span>Patrick Enterprises</span></a>
+<!--
+            <div id="ptrck"><a href="http://www.patrick-enterprises.com/" target="_blank"><span>Patrick Enterprises</span></a>
               <ul>
                 <li>Obsolete Molded Case Circuit Breakers &amp; Motor Control Centers</li>
                 <li>Relay Training</li>
                 <li>Repair of Printed Circuit Boards, VFD's, Power Supplies</li>
               </ul>
     		</div>
+-->
+            <div id="megalert"><a href="http://www.megalert.com/" target="_blank"><span>MegAlert</span></a>
+                <ul>
+                    <li>The only automatic permanently installed "True Dielectric" Insulation Resistance Testers and Monitors with 500-5000 VDC test outputs.</li>
+                </ul>
+            </div>
             <div id="gw"><a href="http://www.gwelec.com/" target="_blank"><span>G &amp; W Electric</span></a>
                 <ul>
                     <li>A leading worldwide manufacturer of medium/high voltage electrical products and automation services.</li>

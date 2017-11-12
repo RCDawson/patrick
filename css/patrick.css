@@ -61,6 +61,8 @@ a:hover, a:active, .show-hide-slide a:hover { color:#009900; text-decoration:non
 #vt a:hover, .tech #ge-iti a { background-position: center bottom; }
 #mid a { background-position: right -74px; }
 #mid a:hover, .tech #mid a { background-position: right -444px; }
+#megalert a { height:74px; width:188px; background: url(../imgs/megalert-logo.png) no-repeat center top; }
+#megalert a:hover, .tech { background-position: center bottom; }
 #ino a { background-position: left -148px; }
 #ino a:hover, .tech #ino a { background-position: left -518px; }
 #smc a { background-position: center -148px; }
